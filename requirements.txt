@@ -1,9 +1,8 @@
-streamlit>=1.24.0
-pandas>=1.5.3
-numpy>=1.24.3
-plotly>=5.14.1
-scikit-learn>=1.2.2
-textacy>=0.13.0
-base64>=1.0.0
-python-dateutil>=2.8.2
-pytz>=2023.3 
+streamlit==1.42.0
+pandas==2.2.3
+numpy==2.2.2
+plotly==6.0.0
+scikit-learn==1.6.1
+textacy==0.13.0
+python-dateutil==2.8.2
+pytz==2024.1
