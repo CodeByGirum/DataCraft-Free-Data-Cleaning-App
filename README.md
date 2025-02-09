@@ -6,6 +6,10 @@
 
 DataCraft is your friendly neighborhood data cleaning app that turns the mundane task of data preprocessing into a delightful experience! Built with Streamlit and powered by caffeine ☕, this app makes data cleaning feel less like a chore and more like a spa day for your datasets.
 
+
+[Click here to watch the demo!](https://youtu.be/89QsaznKHto?si=I2De55pnUcSNkGjb)
+
+[![Watch the video](https://img.youtube.com/vi/89QsaznKHto/0.jpg)](https://www.youtube.com/watch?v=89QsaznKHto)
 ## 🎯 Features
 
 - 🧹 **Clean That Data:** Remove those pesky NaN values like they never existed
